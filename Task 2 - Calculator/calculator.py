@@ -1,4 +1,4 @@
-# SIMPLE CALCULATOR - TASK 2
+# SIMPLE CALCULATOR - TASK 2 
 
 print("---Simple Calculator---")
 
