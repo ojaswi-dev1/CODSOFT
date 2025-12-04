@@ -1,5 +1,11 @@
 # Task 2 – Calculator
 
-This project performs basic arithmetic operations using float inputs. 
-The user can choose addition, subtraction, multiplication, division, or modulus through a menu-driven interface. 
-The program includes input validation and handles errors such as invalid numbers.
+A simple Python calculator that performs basic arithmetic operations using float inputs. The user selects an operation from a menu and enters two numbers. The result is displayed instantly with input validation to avoid errors.
+
+## Features
+- Addition, subtraction, multiplication, division, modulus
+- Float input support
+- Menu-driven interface
+
+## Language Used
+Python 3
